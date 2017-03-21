@@ -226,7 +226,7 @@ else {
     alert ('The Match has Tie');
 }*/
 /***************************************program*14*****************************************/
-var s = prompt('Enter a string');
+/*var s = prompt('Enter a string');
 var n = +prompt('Enter a number');
 var b= prompt('Enter a booleon');
 if( s===s){
@@ -243,7 +243,7 @@ if(n===n){
 if(b===b){
     alert(b+ " is a boolean");
 
-}
+}*/
 /***************************************program*15*****************************************/
 /*var a = prompt("Enter your number");
 if((a%2)==0){
