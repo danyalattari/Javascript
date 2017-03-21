@@ -1,0 +1,13 @@
+*{
+    background-color: lightgreen;
+    color: cornflowerblue;
+    border: 2px solid violet;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+    justify-content: space-around;
+}
+body{
+    border: 20px dashed rosybrown;
+}
