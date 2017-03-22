@@ -1,23 +1,4 @@
-/*alert ("hello world");
-
-var a = prompt("Enter Your Table Num", "Enter Num e.i.. 2");
-
-if (a > 1, a < 3 ) {
-    document.write("02*01=02<br>02*02=04<br>02*03=06<br>02*04=08<br>02*05=10<br>02*06=12<br>02*07=14<br>02*08=16<br>02*09=18<br>02*10=20")
-}
-else if (a > 2) {
-    document.write("03*01=03<br>03*02=06<br>03*03=09<br>03*04=12<br>03*05=15<br>03*06=18<br>03*07=21<br>03*08=24<br>03*09=27<br>03*10=30")
-}
-else if (a > 60) {
-    document.write("Congratulation You Have <b>B</b> Grade")
-
-}
-else if (a > 50){
-    document.write("Congratulation You Have <b>C</b> Grade")
-}
-else {
-    document.write("You are failed")
-};*/
+//Danyal Attari
 /***************************************program*1*****************************************/
 /*var input = prompt("Enter your Name");
     alert ("Hi! "+input);*/
